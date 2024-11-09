@@ -85,9 +85,9 @@ This will create the necessary tables in the nexus_auth database.
     DB_PASSWORD=your_db_password
     DB_NAME=nexus_auth
   5. Run the Development Server
-  Start the development server by running:
-  npm start
-  the app will be accessible at http://localhost:3000.
+  # Start the development server by running:
+    npm start
+  the project will be accessible at http://localhost:3000.
 
 
 # API Endpoints
